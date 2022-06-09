@@ -331,7 +331,6 @@
     - [Redis—5种基本数据结构](https://mp.weixin.qq.com/s/MT1tB2_7f5RuOxKhuEm1vQ)
     - [Redis—持久化](https://mp.weixin.qq.com/s/O_qDco6-Dasu3RomWIK_Ig)
     - [Reids—神奇的HyperLoglog解决统计问题](https://mp.weixin.qq.com/s/9dtGe3d_mbbxW5FpVPDNow)
-    - [Redis分布式锁](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg) 
     - [Redis数据结构底层系列-SDS](https://mp.weixin.qq.com/s/VY31lBOSggOHvVf54GzvYw)
     - [短小精悍之 Redis 命令行工具有趣的罕见用法](https://mp.weixin.qq.com/s/eSx4aL7iaMZlW0cPZswghA)
     - [Redis分布式锁(全)](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ)
